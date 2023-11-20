@@ -7,6 +7,8 @@ package com.test;
 public class Commit {
     public static void main(String[] args) {
         System.out.println("this is test...");
+
+        System.out.println("master fix");
         System.out.println("hot fix");
     }
 }
