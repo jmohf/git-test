@@ -7,10 +7,6 @@ package com.test;
 public class Commit {
     public static void main(String[] args) {
         System.out.println("this is test...");
-        System.out.println("this is test2...");
-        System.out.println("this is test3...");
-        System.out.println("this is test4...");
-        System.out.println("this is test5...");
-
+        System.out.println("hot fix1");
     }
 }
