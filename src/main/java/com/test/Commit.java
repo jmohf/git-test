@@ -9,6 +9,11 @@ public class Commit {
 
         System.out.println("master fix");
 
+        System.out.println("hot fix");
 
+        System.out.println("push commit");
+
+        System.out.println("pull test");
+        System.out.println("pull test");
     }
 }
