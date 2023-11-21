@@ -14,5 +14,6 @@ public class Commit {
         System.out.println("push commit");
 
         System.out.println("pull test");
+        System.out.println("pull test");
     }
 }
