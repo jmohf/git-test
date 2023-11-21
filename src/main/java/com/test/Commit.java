@@ -14,5 +14,8 @@ public class Commit {
         System.out.println("push commit");
 
         System.out.println("pull te44st");
+        System.out.println("pull te44st");
+        System.out.println("pull te44st");
+
     }
 }
